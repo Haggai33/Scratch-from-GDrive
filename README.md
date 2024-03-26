@@ -5,7 +5,7 @@
 This Python script automates the task of organizing and presenting photos for 100 playlists in a personal project. It was developed to facilitate the creation of a collage for the celebratory 200th playlist.
 
 ### Challenge
-The challenge involved managing and selecting images from folders in Google Drive, where each playlist folder contained multiple image types (raw, edited, and publish-ready), along with text and CSV files.
+The challenge involved managing and selecting images from over 100 folders in Google Drive. Each playlist folder contained multiple image types (raw, edited, and publish-ready), along with text and CSV files.
 
 ### Solution
 The script navigates through each folder in Google Drive, identifies the most recently updated image relevant to each playlist, and saves it to a predefined directory on a personal computer. This automation saved considerable time and minimized potential manual errors.
